@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Voice Call Assistant</string>
+    <string name="mic_button_desc">Tap to speak a voice command</string>
+    <string name="hint_tap_mic">Tap the mic and say\n"Call [Name]"</string>
+    <string name="hint_examples">e.g. "Call Mom" · "Call Rahul" · "Call Dad"</string>
+    <string name="listening">Listening…</string>
+    <string name="hearing">Hearing you…</string>
+    <string name="processing">Processing…</string>
+    <string name="contact_not_found">Contact not found</string>
+    <string name="try_again">Try Again</string>
+    <string name="grant_permissions">Grant Permissions</string>
+    <string name="permissions_required">Permissions required</string>
+    <string name="call_action">📞 Call %s</string>
+    <string name="quick_commands">Quick Commands</string>
+    <string name="search_contacts">Search Contacts</string>
+    <string name="search_hint">Search by name…</string>
+</resources>
